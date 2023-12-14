@@ -30,7 +30,8 @@ body {
   /* align-items: ; */
   margin: 10px;
 
-  font-family: "Permanent Marker", cursive;
+  /* font-family: "Permanent Marker", cursive; */
+  font-family: "cursive";
 }
 
 .green {
